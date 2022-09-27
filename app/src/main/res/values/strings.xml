@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">T02p02</string>
+    <string name="tv_cabeceraFicha">Ficha del alumno</string>
+    <string name="tv_dni">DNI:</string>
+    <string name="tv_nombre">Nombre:</string>
+    <string name="rb_hombre">Hombre</string>
+    <string name="rb_mujer">Mujer</string>
+    <string name="cb_mayorEdad">¿Es mayor de edad?</string>
+    <string name="bt_cancelar">CANCELAR</string>
+    <string name="bt_aceptar">ACEPTAR</string>
+    <string name="et_dni"> </string>
+    <string name="et_nombre"> </string>
+
+    <string name="msg_DatosObligatorios">Faltan datos obligatorios!!</string>
+    <string name="msg_DatosEliminados">Datos eliminados!!</string>
+
+    <string name="msg_Dni">Dni: </string>
+    <string name="msg_Nombre">Nombre: </string>
+    <string name="msg_SexoH">Sexo: Hombre</string>
+    <string name="msg_SexoM">Sexo: Mujer</string>
+    <string name="msg_MayorE">Mayor de edad</string>
+    <string name="msg_MenorE">Menor de edad</string>
+</resources>
